@@ -4,6 +4,29 @@ h1 {
 h4{	
 	color: #E09D4C;
 }
+body {
+	background-color: #282923;
+}
 li {
 	color:#F5EB65;
 }
+/* Color Theme Swatches in Hex */
+.Somewhere-Over-the-Rainbow-1-hex { color: #FA544B; }
+.Somewhere-Over-the-Rainbow-2-hex { color: #E09D4C; }
+.Somewhere-Over-the-Rainbow-3-hex { color: #F5EB65; }
+.Somewhere-Over-the-Rainbow-4-hex { color: #66E076; }
+.Somewhere-Over-the-Rainbow-5-hex { color: #528EFA; }
+
+/* Color Theme Swatches in RGBA */
+.Somewhere-Over-the-Rainbow-1-rgba { color: rgba(249, 84, 75, 1); }
+.Somewhere-Over-the-Rainbow-2-rgba { color: rgba(223, 156, 75, 1); }
+.Somewhere-Over-the-Rainbow-3-rgba { color: rgba(244, 235, 100, 1); }
+.Somewhere-Over-the-Rainbow-4-rgba { color: rgba(102, 223, 117, 1); }
+.Somewhere-Over-the-Rainbow-5-rgba { color: rgba(82, 142, 249, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Somewhere-Over-the-Rainbow-1-hsla { color: hsla(3, 94, 63, 1); }
+.Somewhere-Over-the-Rainbow-2-hsla { color: hsla(32, 70, 58, 1); }
+.Somewhere-Over-the-Rainbow-3-hsla { color: hsla(55, 87, 67, 1); }
+.Somewhere-Over-the-Rainbow-4-hsla { color: hsla(127, 66, 63, 1); }
+.Somewhere-Over-the-Rainbow-5-hsla { color: hsla(218, 94, 65, 1); }
